@@ -1,7 +1,7 @@
 function convertFtoC (tempF) {
-    return (tempF - 32) * 5/9;
+    document.converter.tempC.value = (document.converter.tempF.value - 32) * 5/9;
 }
 
 function convertCtoF (tempC) {
-    return tempC * 9/5 + 32;
+    document.converter.tempF.value = (document.converter.tempC * 9/5 + 32;
 }
