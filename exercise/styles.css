@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  -webkit-transition:3s ease-in-out;
 }
 
 #center {
