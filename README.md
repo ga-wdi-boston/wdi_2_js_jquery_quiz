@@ -1,4 +1,4 @@
-# Quiz: An Introduction to Javascript Objects
+# Quiz: An Introduction to jQuery
 
 #### Directions
 
