@@ -9,3 +9,8 @@ body {
   width: 60%;
   background-color: white;
 }
+
+#test {
+  width: 20px;
+  height: 20px;
+}
