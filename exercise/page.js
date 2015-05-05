@@ -10,13 +10,13 @@ function changeColor(){
   if($('input[name="temp-c"]').val() < 0){
   $('body').removeClass().addClass('purple');
 }
-  else if($('input[name="temp-c"]').val() >= 0 && $('input[name="temp-c"]').val() <= 10){
+  else if($('input[name="temp-c"]').val() < 10){
     $('body').removeClass().addClass('blue');
   }
-  else if($('input[name="temp-c"]').val() > 10 && $('input[name="temp-c"]').val() < 20){
+  else if($('input[name="temp-c"]').val() < 20){
     $('body').removeClass().addClass('yellow');
   }
-  else if($('input[name="temp-c"]').val() >= 20 && $('input[name="temp-c"]').val() < 30){
+  else if($('input[name="temp-c"]').val() < 30){
     $('body').removeClass().addClass('orange');
   }
   else{
