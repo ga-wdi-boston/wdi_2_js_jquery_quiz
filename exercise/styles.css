@@ -9,3 +9,8 @@ body {
   width: 60%;
   background-color: white;
 }
+
+
+
+- When you do the conversion, you should set the background color of the page to reflect how warm or cold the temperature is.  Use purple for temperatures below freezing, blue for temperatures between 0 C and 10 C, yellow for temperatures between 10 C and 20 C, orange for temperatures between 20 C and 30 C, and red for temperatures above 30 C.
+
