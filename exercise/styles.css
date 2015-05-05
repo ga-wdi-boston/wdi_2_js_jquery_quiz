@@ -9,3 +9,25 @@ body {
   width: 60%;
   background-color: white;
 }
+
+
+.below-freezing {
+  background-color: purple;
+}
+
+.cold {
+  background-color: blue;
+}
+
+.lukewarm {
+  background-color: yellow;
+}
+
+.warm {
+  background-color: orange;
+}
+
+.hot {
+  background-color: red;
+}
+
